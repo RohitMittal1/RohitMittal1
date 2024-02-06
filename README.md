@@ -3,9 +3,8 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmittal1&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmittal1" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rohit-mittal-18973b297/](https://www.linkedin.com/in/rohit-mittal-18973b297/)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/rohit-mittal-18973b297]
 
 - 📫 How to reach me **rohitmittalkkp4@gmail.com**
 
