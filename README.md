@@ -1,13 +1,40 @@
-<h2 align="center">🌐 Socials</h2>
+<h1 align="center">ROHIT MITTAL</h1>
+
+<h3 align="center">
+  Aspiring Software Engineer | Web Development & Backend
+</h3>
+
+<p align="center">
+ 💻 Passionate about building scalable web applications<br>
+🎓 Aspiring Software Engineer<br>
+🚀 Learning MERN Stack & Backend Development
+
+</p>
 
 <div align="center">
   <a href="https://linkedin.com/in/rohitmittal4">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rohitmittalkkp4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<br/>
+
+<div align="center">
+
+| 🎯 Focus | 🧰 Tech Stack | 📍 Location |
+|---------|--------------|-------------|
+| Web Apps & APIs | Mern & Java | India (Chitkara Univ.) |
+
+</div>
+
+
+
+
+
+
 
 ---
 
