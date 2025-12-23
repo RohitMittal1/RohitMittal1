@@ -1,7 +1,7 @@
 <h1 align="center">ROHIT MITTAL</h1>
 
 <h3 align="center">
-  Aspiring Software Engineer | Web Development & Backend
+  Software Engineer | Web Development & Backend
 </h3>
 
 <p align="center">
