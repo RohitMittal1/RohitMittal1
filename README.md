@@ -1,21 +1,24 @@
-<h1 align="center">Hi, I'm Rohit Mittal 👋</h1>
+<h1 align="center"> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHi, I'm Rohit Mittal 👋  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a href="https://linkedin.com/in/rohitmittal4">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:rohitmittalkkp4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+  </a>    </h1>    
 
 <h3 align="center">
-  <span style="color:#1D4ED8; font-weight:600; letter-spacing:20px;">
+  <span style="color:#1D4ED8; font-weight:600; letter-spacing:2px;">
     Software Engineer | Web Development & Backend
   </span>
 </h3>
 
-
-
-
-<p align="center",letter-spacing:20px>
- 💻 Passionate about building scalable web applications<br>
- 🎓 Focused on problem-solving and backend engineering<br>
- 🚀 Working with MERN Stack & Backend Development
+<p align="center">
+  💻 Passionate about building scalable web applications<br/>
+  🎓 Focused on problem-solving and backend engineering<br/>
+  🚀 Working with MERN Stack & Backend Development
 </p>
 
-<br>
+<br/>
 
 <h2 align="center">🛠 Technologies & Tools</h2>
 
@@ -43,20 +46,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </div>
 
+<br/><br/>
+
+
+
 <br/>
+
+<div align="center">
+
+| 🎯 Focus | 🧰 Tech Stack | 📍 Location |
+|---------|--------------|-------------|
+| Web & Backend Development | MERN • Java | India (Chitkara Uni.) |
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ---
-<br/>
-<h3 align="center">🔝 Top Contributed Repo</h3>
+
+<h3 align="center">🔝 Top Contributed Repositories</h3>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=RohitMittal1&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=RohitMittal1&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
-
----
