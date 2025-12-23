@@ -4,6 +4,10 @@
 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RohitMittal1&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RohitMittal1&theme=default&hide_border=false)<br/>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
