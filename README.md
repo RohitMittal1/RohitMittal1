@@ -1,70 +1,49 @@
-<h1 align="center">ROHIT MITTAL</h1>
+<h1 align="center">Hi, I'm Rohit Mittal 👋</h1>
 
 <h3 align="center">
-  Software Engineer | Web Development & Backend
+  <span style="color:#1D4ED8; font-weight:600; letter-spacing:20px;">
+    Software Engineer | Web Development & Backend
+  </span>
 </h3>
 
-<p align="center">
- 💻 Passionate about building scalable web applications<br>
-🎓 Aspiring Software Engineer<br>
-🚀 Learning MERN Stack & Backend Development
 
+
+
+<p align="center",letter-spacing:20px>
+ 💻 Passionate about building scalable web applications<br>
+ 🎓 Focused on problem-solving and backend engineering<br>
+ 🚀 Working with MERN Stack & Backend Development
 </p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/rohitmittal4">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rohitmittalkkp4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
-</div>
+<br>
+
+<h2 align="center">🛠 Technologies & Tools</h2>
 
 <br/>
 
 <div align="center">
-
-| 🎯 Focus | 🧰 Tech Stack | 📍 Location |
-|---------|--------------|-------------|
-| Web Apps & APIs | Mern & Java | India (Chitkara Univ.) |
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </div>
-
----
-
-<h2 align="center">🛠 Tech Snapshot</h2>
 
 <br/>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/HTML-FF5722?logo=html5&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS-2965F1?logo=css3&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  &nbsp;&nbsp;
-
-</div>
-
-
-
 
 ---
 
@@ -73,7 +52,7 @@
 </div>
 
 ---
-
+<br/>
 <h3 align="center">🔝 Top Contributed Repo</h3>
 
 <div align="center">
